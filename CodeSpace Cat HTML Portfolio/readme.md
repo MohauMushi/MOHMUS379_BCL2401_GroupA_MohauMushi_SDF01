@@ -6,3 +6,7 @@ Then it details the CodeSpace Cat - Catfolio projects he has coded or done so fa
 At the end there is a form, which contains name, email, and message inputs where you can find or reach out at CodeSpace Cat, to talk about his portfolio and the projects he has done that are in the portfolio.
 At the bottom of the page there is a copyright of CodeSpace Cat and that all the rights of everything in the portfolio has been reserved.
 
+# Presentation
+
+## Loom Presentation Link:
+https://www.loom.com/share/aba1645b6b3e4eefb76e360c67a9cd64?sid=5c2e0169-7917-4d6e-9141-4dae7300e5ac
